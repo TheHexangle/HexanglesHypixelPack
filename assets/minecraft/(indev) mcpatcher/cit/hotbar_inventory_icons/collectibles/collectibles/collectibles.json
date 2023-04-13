@@ -1,0 +1,17 @@
+{
+        "parent": "builtin/generated",
+    "textures": {
+        "layer0": "collectibles"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ -70, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.50, 1.50, 1.50 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -130, 20 ],
+            "scale": [ 2.00, 2.00, 2.00 ]
+        }
+    }
+}
