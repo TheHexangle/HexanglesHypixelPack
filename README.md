@@ -1,5 +1,7 @@
 # HexanglesHypixelPack
 
+[![Sponsor Banner](https://scalacube.com/images/banners/modpack.jpg)](https://scalacube.com/p/_hosting_server_minecraft/2647495)
+
 Edited, Updated, and Created By Hexangle:
 linktr.ee/hexangle
 
