@@ -10,4 +10,4 @@ HexanglesHypixelPack is licnsed under "GNU General Public License v3.0"
 
 Extra Textures And Fixes Made By VanillaTweaks: https://vanillatweaks.net
 
-I am not accociated with Minecraft and all 1.14+ assets are owned by mojang: https://www.minecraft.net/en-us
+I am not accociated with Minecraft/Mojang and all 1.14+ assets are owned by mojang: https://www.minecraft.net/en-us
