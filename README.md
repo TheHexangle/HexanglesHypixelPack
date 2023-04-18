@@ -2,7 +2,9 @@
 
 [![Sponsor Banner](https://scalacube.com/images/banners/modpack.jpg)](https://scalacube.com/p/_hosting_server_minecraft/2647495)
 
-Hexangle's Hypixel Pack is a 1.8.9 pvp pack with updated textures and custom icons using Optifine's MCPatcher specifically made for Hypixel. This includes CIT textures to give GUI items special textures that better define them and make using the GUI easier to use. There are also many PvP centric features to help in pvp game modes short swords, saturated block textures, and refined block textures to name a few. I have also backported and eddited all 1.14+ textures to the game with some texture fixes and tweaks by the incredible VanillaTweaks team.
+Hexangle's Hypixel Pack is a 1.8.9 pvp pack with updated textures and custom icons using Optifine's MCPatcher specifically made for Hypixel. This includes CIT textures to give GUI items special textures that better define them and make using the GUI easier to use. There are also many PvP features to help in PvP game modes short swords, saturated block textures, and refined block textures to name a few. I have also backported and edited all 1.14+ textures to the game with some texture fixes and tweaks by the incredible VanillaTweaks team.
+
+**THIS PACK IS STILL IN DEVELOPMENT AND THERE ARE NO CIT TEXTURES AVAILABLE BY DEFAULT**
 
 Edited, Updated, and Created By Hexangle: linktr.ee/hexangle
 
